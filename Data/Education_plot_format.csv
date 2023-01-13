@@ -1,0 +1,441 @@
+age,Education_level,Count_var,highlight,Count_var_tot,Frac_edu
+20,High School,76939,Highlighted group,106460,0.7227033627653578
+20,Middle School,15669,Highlighted group,106460,0.1471820402028931
+20,Research,0,Highlighted group,106460,0
+20,University,13852,Highlighted group,106460,0.13011459703174902
+21,High School,69086,Highlighted group,108785,0.6350691731396791
+21,Middle School,14514,Highlighted group,108785,0.13341912947557108
+21,Research,0,Highlighted group,108785,0
+21,University,25185,Highlighted group,108785,0.23151169738474975
+22,High School,65887,Highlighted group,113089,0.5826119251209224
+22,Middle School,14101,Highlighted group,113089,0.12468940392080574
+22,Research,0,Highlighted group,113089,0
+22,University,33101,Highlighted group,113089,0.2926986709582718
+23,High School,58820,Highlighted group,111322,0.5283771401879234
+23,Middle School,13104,Highlighted group,111322,0.11771258152027451
+23,Research,0,Highlighted group,111322,0
+23,University,39398,Highlighted group,111322,0.35391027829180216
+24,High School,55027,Highlighted group,110968,0.49588169562396367
+24,Middle School,12091,Highlighted group,110968,0.10895933962944272
+24,Research,0,Highlighted group,110968,0
+24,University,43850,Highlighted group,110968,0.3951589647465936
+25,High School,55155,Highlighted group,116364,0.4739868000412499
+25,Middle School,11820,Highlighted group,116364,0.10157780756935135
+25,Research,18,Highlighted group,116364,1.5468701660307311e-4
+25,University,49371,Highlighted group,116364,0.4242807053727957
+26,High School,57113,Highlighted group,125272,0.4559119356280733
+26,Middle School,12687,Highlighted group,125272,0.10127562424165017
+26,Research,34,Highlighted group,125272,2.714094131170573e-4
+26,University,55438,Highlighted group,125272,0.44254103071715944
+27,High School,58754,Highlighted group,134540,0.4367028393042961
+27,Middle School,12435,Highlighted group,134540,0.09242604429909321
+27,Research,77,Highlighted group,134540,5.723204994797086e-4
+27,University,63274,Highlighted group,134540,0.470298795897131
+28,High School,60014,Highlighted group,140161,0.4281790226953289
+28,Middle School,12682,Highlighted group,140161,0.09048166037628157
+28,Research,184,Highlighted group,140161,0.0013127760218605746
+28,University,67281,Highlighted group,140161,0.4800265409065289
+29,High School,61347,Highlighted group,146261,0.41943511940982214
+29,Middle School,12909,Highlighted group,146261,0.08826002830556334
+29,Research,373,Highlighted group,146261,0.002550235537839889
+29,University,71632,Highlighted group,146261,0.4897546167467746
+30,High School,61789,Highlighted group,149805,0.41246286839558094
+30,Middle School,13444,Highlighted group,149805,0.0897433329995661
+30,Research,619,Highlighted group,149805,0.004132038316478088
+30,University,73953,Highlighted group,149805,0.4936617602883749
+31,High School,61510,Highlighted group,152674,0.4028845775967093
+31,Middle School,13968,Highlighted group,152674,0.09148905511088987
+31,Research,949,Highlighted group,152674,0.006215858626878185
+31,University,76247,Highlighted group,152674,0.4994105086655226
+32,High School,57478,Highlighted group,146575,0.39214054238444485
+32,Middle School,13389,Highlighted group,146575,0.09134572744328842
+32,Research,1164,Highlighted group,146575,0.00794132696571721
+32,University,74544,Highlighted group,146575,0.5085724032065495
+33,High School,56119,Highlighted group,144412,0.3886034401573277
+33,Middle School,13004,Highlighted group,144412,0.09004791845553001
+33,Research,1461,Highlighted group,144412,0.010116887793258178
+33,University,73828,Highlighted group,144412,0.5112317535938842
+34,High School,52128,Highlighted group,137662,0.37866658918219986
+34,Middle School,12688,Highlighted group,137662,0.09216777324170795
+34,Research,1727,Highlighted group,137662,0.012545219450538275
+34,University,71119,Highlighted group,137662,0.5166204181255539
+35,High School,50863,Highlighted group,136135,0.37362177250523376
+35,Middle School,12869,Highlighted group,136135,0.09453116391816946
+35,Research,1939,Highlighted group,136135,0.014243214456238293
+35,University,70464,Highlighted group,136135,0.5176038491203585
+36,High School,49393,Highlighted group,133571,0.36978835226209283
+36,Middle School,13391,Highlighted group,133571,0.10025379760576772
+36,Research,2148,Highlighted group,133571,0.016081335020326267
+36,University,68639,Highlighted group,133571,0.5138765151118132
+37,High School,46470,Highlighted group,129003,0.3602241808330039
+37,Middle School,13010,Highlighted group,129003,0.10085036782090338
+37,Research,2217,Highlighted group,129003,0.0171856468454222
+37,University,67306,Highlighted group,129003,0.5217398045006705
+38,High School,45257,Highlighted group,126039,0.35907139853537395
+38,Middle School,13056,Highlighted group,126039,0.10358698498083926
+38,Research,2309,Highlighted group,126039,0.018319726433881578
+38,University,65417,Highlighted group,126039,0.5190218900499052
+39,High School,44308,Highlighted group,126414,0.3504991535747623
+39,Middle School,13661,Highlighted group,126414,0.10806556235859953
+39,Research,2388,Highlighted group,126414,0.018890312781812142
+39,University,66057,Highlighted group,126414,0.522544971284826
+40,High School,44640,Highlighted group,124424,0.35877322703015496
+40,Middle School,12682,Highlighted group,124424,0.10192567350350415
+40,Research,2381,Highlighted group,124424,0.01913617951520607
+40,University,64721,Highlighted group,124424,0.5201649199511348
+41,High School,47185,Highlighted group,128483,0.367247028789801
+41,Middle School,12855,Highlighted group,128483,0.10005214697664283
+41,Research,2454,Highlighted group,128483,0.019099803086789692
+41,University,65989,Highlighted group,128483,0.5136010211467665
+42,High School,44173,Highlighted group,124538,0.35469495254460487
+42,Middle School,14702,Highlighted group,124538,0.11805232137981982
+42,Research,2519,Highlighted group,124538,0.02022675809792995
+42,University,63144,Highlighted group,124538,0.5070259679776454
+43,High School,44069,Highlighted group,120729,0.3650241449858775
+43,Middle School,14698,Highlighted group,120729,0.12174374011215201
+43,Research,2622,Highlighted group,120729,0.02171806276868027
+43,University,59340,Highlighted group,120729,0.49151405213329025
+44,High School,47654,Highlighted group,122016,0.39055533700498296
+44,Middle School,12434,Highlighted group,122016,0.10190466824023078
+44,Research,2497,Highlighted group,122016,0.020464529242066615
+44,University,59431,Highlighted group,122016,0.48707546551271963
+45,High School,49723,Highlighted group,123062,0.40404836586436105
+45,Middle School,10739,Highlighted group,123062,0.08726495587589995
+45,Research,2521,Highlighted group,123062,0.02048560888007671
+45,University,60079,Highlighted group,123062,0.4882010693796623
+46,High School,53239,Highlighted group,127452,0.41771804287104164
+46,Middle School,10666,Highlighted group,127452,0.083686407431817475
+46,Research,2645,Highlighted group,127452,0.020752910899789725
+46,University,60902,Highlighted group,127452,0.47784263879735117
+47,High School,56025,Highlighted group,133234,0.4205007730759416
+47,Middle School,12627,Highlighted group,133234,0.09477310596394314
+47,Research,2501,Highlighted group,133234,0.018771484756143327
+47,University,62081,Highlighted group,133234,0.465954636203972
+48,High School,54881,Highlighted group,130750,0.41973996175908224
+48,Middle School,12763,Highlighted group,130750,0.09761376673040154
+48,Research,2662,Highlighted group,130750,0.02035946462715105
+48,University,60444,Highlighted group,130750,0.4622868068833652
+49,High School,57037,Highlighted group,132632,0.4300395078110863
+49,Middle School,13433,Highlighted group,132632,0.10128023403100307
+49,Research,2585,Highlighted group,132632,0.01949001749200796
+49,University,59577,Highlighted group,132632,0.44919024066590263
+50,High School,59442,Highlighted group,132076,0.4500590569066295
+50,Middle School,12552,Highlighted group,132076,0.09503619128380629
+50,Research,2563,Highlighted group,132076,0.019405493806596202
+50,University,57519,Highlighted group,132076,0.435499258002968
+51,High School,60197,Highlighted group,128556,0.4682550794984287
+51,Middle School,12517,Highlighted group,128556,0.09736612837985002
+51,Research,2379,Highlighted group,128556,0.01850555399981331
+51,University,53463,Highlighted group,128556,0.41587323812190796
+52,High School,60291,Highlighted group,126108,0.4780902083928062
+52,Middle School,12193,Highlighted group,126108,0.09668696672693247
+52,Research,2325,Highlighted group,126108,0.018436578171091445
+52,University,51299,Highlighted group,126108,0.4067862467091699
+53,High School,63935,Highlighted group,131003,0.4880422585742311
+53,Middle School,12917,Highlighted group,131003,0.09860079540163202
+53,Research,2229,Highlighted group,131003,0.01701487752188881
+53,University,51922,Highlighted group,131003,0.396342068502248
+54,High School,67730,Highlighted group,136713,0.4954174072692429
+54,Middle School,13742,Highlighted group,136713,0.10051714174950444
+54,Research,2309,Highlighted group,136713,0.016889396034027487
+54,University,52932,Highlighted group,136713,0.38717605494722523
+55,High School,68763,Highlighted group,137268,0.5009397674621907
+55,Middle School,14535,Highlighted group,137268,0.10588775242591135
+55,Research,2215,Highlighted group,137268,0.016136317277151264
+55,University,51755,Highlighted group,137268,0.3770361628347466
+56,High School,69141,Highlighted group,137017,0.5046162155061051
+56,Middle School,15458,Highlighted group,137017,0.11281811745987724
+56,Research,2201,Highlighted group,137017,0.016063700124802033
+56,University,50217,Highlighted group,137017,0.36650196690921566
+57,High School,68393,Highlighted group,135842,0.5034746249319062
+57,Middle School,16348,Highlighted group,135842,0.12034569573475067
+57,Research,2073,Highlighted group,135842,0.015260376025087969
+57,University,49028,Highlighted group,135842,0.36091930330825517
+58,High School,62676,Highlighted group,126135,0.4968961826614342
+58,Middle School,16252,Highlighted group,126135,0.1288460776152535
+58,Research,1956,Highlighted group,126135,0.015507194672374837
+58,University,45251,Highlighted group,126135,0.3587505450509375
+59,High School,59719,Highlighted group,119759,0.49865980844863433
+59,Middle School,16049,Highlighted group,119759,0.13401080503344218
+59,Research,1741,Highlighted group,119759,0.0145375295384898
+59,University,42250,Highlighted group,119759,0.3527918569794337
+60,High School,57634,Highlighted group,115037,0.5010040247920234
+60,Middle School,15657,Highlighted group,115037,0.1361040360927354
+60,Research,1719,Highlighted group,115037,0.014943018333231917
+60,University,40027,Highlighted group,115037,0.3479489207820093
+61,High School,56005,Highlighted group,113216,0.4946738976823064
+61,Middle School,16733,Highlighted group,113216,0.14779713114754098
+61,Research,1773,Highlighted group,113216,0.015660330695308082
+61,University,38705,Highlighted group,113216,0.34186864047484455
+62,High School,55101,Highlighted group,112808,0.4884494007517197
+62,Middle School,17488,Highlighted group,112808,0.15502446634990427
+62,Research,1662,Highlighted group,112808,0.014732997659740444
+62,University,38557,Highlighted group,112808,0.3417931352386356
+63,High School,53608,Highlighted group,111571,0.48048327970529975
+63,Middle School,18449,Highlighted group,111571,0.16535658907780695
+63,Research,1617,Highlighted group,111571,0.014493013417465112
+63,University,37897,Highlighted group,111571,0.33966711779942815
+64,High School,53256,Highlighted group,111850,0.4761376843987483
+64,Middle School,19077,Highlighted group,111850,0.17055878408582922
+64,Research,1640,Highlighted group,111850,0.014662494412159142
+64,University,37877,Highlighted group,111850,0.3386410371032633
+65,High School,53106,Highlighted group,111152,0.4777781776306319
+65,Middle School,19315,Highlighted group,111152,0.17377105225277098
+65,Research,1629,Highlighted group,111152,0.014655606736720887
+65,University,37102,Highlighted group,111152,0.3337951633798762
+66,High School,51121,Highlighted group,108126,0.47279100308898875
+66,Middle School,19042,Highlighted group,108126,0.17610935390192922
+66,Research,1524,Highlighted group,108126,0.014094667332556461
+66,University,36439,Highlighted group,108126,0.33700497567652554
+67,High School,46944,Highlighted group,105160,0.4464054773678205
+67,Middle School,21766,Highlighted group,105160,0.20697984024343857
+67,Research,1430,Highlighted group,105160,0.013598326359832637
+67,University,35020,Highlighted group,105160,0.33301635602890833
+68,High School,47958,Highlighted group,106416,0.45066531348669375
+68,Middle School,21573,Highlighted group,106416,0.2027232746955345
+68,Research,1499,Highlighted group,106416,0.014086227634942114
+68,University,35386,Highlighted group,106416,0.33252518418282967
+69,High School,47736,Highlighted group,104558,0.4565504313395436
+69,Middle School,20859,Highlighted group,104558,0.19949692993362536
+69,Research,1425,Highlighted group,104558,0.013628799326689494
+69,University,34538,Highlighted group,104558,0.33032383940014154
+70,High School,46203,Highlighted group,101915,0.4533483785507531
+70,Middle School,21013,Highlighted group,101915,0.20618162193985184
+70,Research,1293,Highlighted group,101915,0.012687043124172103
+70,University,33406,Highlighted group,101915,0.327782956385223
+71,High School,46447,Highlighted group,104907,0.4427445261040731
+71,Middle School,22926,Highlighted group,104907,0.21853641797020218
+71,Research,1295,Highlighted group,104907,0.012344266826808507
+71,University,34239,Highlighted group,104907,0.3263747890989162
+72,High School,47206,Highlighted group,107073,0.4408767849971515
+72,Middle School,24633,Highlighted group,107073,0.23005799781457512
+72,Research,1320,Highlighted group,107073,0.012328037880698216
+72,University,33914,Highlighted group,107073,0.3167371793075752
+73,High School,47939,Highlighted group,109063,0.4395532857155956
+73,Middle School,26585,Highlighted group,109063,0.24375819480483757
+73,Research,1302,Highlighted group,109063,0.011938054152187268
+73,University,33237,Highlighted group,109063,0.3047504653273796
+74,High School,47139,Highlighted group,107829,0.4371643991876026
+74,Middle School,27552,Highlighted group,107829,0.2555156776006455
+74,Research,1295,Highlighted group,107829,0.012009756188038468
+74,University,31843,Highlighted group,107829,0.2953101670237135
+20,High School,106460,All people counted,106460,1
+20,Middle School,106460,All people counted,106460,1
+20,Research,106460,All people counted,106460,1
+20,University,106460,All people counted,106460,1
+21,High School,108785,All people counted,108785,1
+21,Middle School,108785,All people counted,108785,1
+21,Research,108785,All people counted,108785,1
+21,University,108785,All people counted,108785,1
+22,High School,113089,All people counted,113089,1
+22,Middle School,113089,All people counted,113089,1
+22,Research,113089,All people counted,113089,1
+22,University,113089,All people counted,113089,1
+23,High School,111322,All people counted,111322,1
+23,Middle School,111322,All people counted,111322,1
+23,Research,111322,All people counted,111322,1
+23,University,111322,All people counted,111322,1
+24,High School,110968,All people counted,110968,1
+24,Middle School,110968,All people counted,110968,1
+24,Research,110968,All people counted,110968,1
+24,University,110968,All people counted,110968,1
+25,High School,116364,All people counted,116364,1
+25,Middle School,116364,All people counted,116364,1
+25,Research,116364,All people counted,116364,1
+25,University,116364,All people counted,116364,1
+26,High School,125272,All people counted,125272,1
+26,Middle School,125272,All people counted,125272,1
+26,Research,125272,All people counted,125272,1
+26,University,125272,All people counted,125272,1
+27,High School,134540,All people counted,134540,1
+27,Middle School,134540,All people counted,134540,1
+27,Research,134540,All people counted,134540,1
+27,University,134540,All people counted,134540,1
+28,High School,140161,All people counted,140161,1
+28,Middle School,140161,All people counted,140161,1
+28,Research,140161,All people counted,140161,1
+28,University,140161,All people counted,140161,1
+29,High School,146261,All people counted,146261,1
+29,Middle School,146261,All people counted,146261,1
+29,Research,146261,All people counted,146261,1
+29,University,146261,All people counted,146261,1
+30,High School,149805,All people counted,149805,1
+30,Middle School,149805,All people counted,149805,1
+30,Research,149805,All people counted,149805,1
+30,University,149805,All people counted,149805,1
+31,High School,152674,All people counted,152674,1
+31,Middle School,152674,All people counted,152674,1
+31,Research,152674,All people counted,152674,1
+31,University,152674,All people counted,152674,1
+32,High School,146575,All people counted,146575,1
+32,Middle School,146575,All people counted,146575,1
+32,Research,146575,All people counted,146575,1
+32,University,146575,All people counted,146575,1
+33,High School,144412,All people counted,144412,1
+33,Middle School,144412,All people counted,144412,1
+33,Research,144412,All people counted,144412,1
+33,University,144412,All people counted,144412,1
+34,High School,137662,All people counted,137662,1
+34,Middle School,137662,All people counted,137662,1
+34,Research,137662,All people counted,137662,1
+34,University,137662,All people counted,137662,1
+35,High School,136135,All people counted,136135,1
+35,Middle School,136135,All people counted,136135,1
+35,Research,136135,All people counted,136135,1
+35,University,136135,All people counted,136135,1
+36,High School,133571,All people counted,133571,1
+36,Middle School,133571,All people counted,133571,1
+36,Research,133571,All people counted,133571,1
+36,University,133571,All people counted,133571,1
+37,High School,129003,All people counted,129003,1
+37,Middle School,129003,All people counted,129003,1
+37,Research,129003,All people counted,129003,1
+37,University,129003,All people counted,129003,1
+38,High School,126039,All people counted,126039,1
+38,Middle School,126039,All people counted,126039,1
+38,Research,126039,All people counted,126039,1
+38,University,126039,All people counted,126039,1
+39,High School,126414,All people counted,126414,1
+39,Middle School,126414,All people counted,126414,1
+39,Research,126414,All people counted,126414,1
+39,University,126414,All people counted,126414,1
+40,High School,124424,All people counted,124424,1
+40,Middle School,124424,All people counted,124424,1
+40,Research,124424,All people counted,124424,1
+40,University,124424,All people counted,124424,1
+41,High School,128483,All people counted,128483,1
+41,Middle School,128483,All people counted,128483,1
+41,Research,128483,All people counted,128483,1
+41,University,128483,All people counted,128483,1
+42,High School,124538,All people counted,124538,1
+42,Middle School,124538,All people counted,124538,1
+42,Research,124538,All people counted,124538,1
+42,University,124538,All people counted,124538,1
+43,High School,120729,All people counted,120729,1
+43,Middle School,120729,All people counted,120729,1
+43,Research,120729,All people counted,120729,1
+43,University,120729,All people counted,120729,1
+44,High School,122016,All people counted,122016,1
+44,Middle School,122016,All people counted,122016,1
+44,Research,122016,All people counted,122016,1
+44,University,122016,All people counted,122016,1
+45,High School,123062,All people counted,123062,1
+45,Middle School,123062,All people counted,123062,1
+45,Research,123062,All people counted,123062,1
+45,University,123062,All people counted,123062,1
+46,High School,127452,All people counted,127452,1
+46,Middle School,127452,All people counted,127452,1
+46,Research,127452,All people counted,127452,1
+46,University,127452,All people counted,127452,1
+47,High School,133234,All people counted,133234,1
+47,Middle School,133234,All people counted,133234,1
+47,Research,133234,All people counted,133234,1
+47,University,133234,All people counted,133234,1
+48,High School,130750,All people counted,130750,1
+48,Middle School,130750,All people counted,130750,1
+48,Research,130750,All people counted,130750,1
+48,University,130750,All people counted,130750,1
+49,High School,132632,All people counted,132632,1
+49,Middle School,132632,All people counted,132632,1
+49,Research,132632,All people counted,132632,1
+49,University,132632,All people counted,132632,1
+50,High School,132076,All people counted,132076,1
+50,Middle School,132076,All people counted,132076,1
+50,Research,132076,All people counted,132076,1
+50,University,132076,All people counted,132076,1
+51,High School,128556,All people counted,128556,1
+51,Middle School,128556,All people counted,128556,1
+51,Research,128556,All people counted,128556,1
+51,University,128556,All people counted,128556,1
+52,High School,126108,All people counted,126108,1
+52,Middle School,126108,All people counted,126108,1
+52,Research,126108,All people counted,126108,1
+52,University,126108,All people counted,126108,1
+53,High School,131003,All people counted,131003,1
+53,Middle School,131003,All people counted,131003,1
+53,Research,131003,All people counted,131003,1
+53,University,131003,All people counted,131003,1
+54,High School,136713,All people counted,136713,1
+54,Middle School,136713,All people counted,136713,1
+54,Research,136713,All people counted,136713,1
+54,University,136713,All people counted,136713,1
+55,High School,137268,All people counted,137268,1
+55,Middle School,137268,All people counted,137268,1
+55,Research,137268,All people counted,137268,1
+55,University,137268,All people counted,137268,1
+56,High School,137017,All people counted,137017,1
+56,Middle School,137017,All people counted,137017,1
+56,Research,137017,All people counted,137017,1
+56,University,137017,All people counted,137017,1
+57,High School,135842,All people counted,135842,1
+57,Middle School,135842,All people counted,135842,1
+57,Research,135842,All people counted,135842,1
+57,University,135842,All people counted,135842,1
+58,High School,126135,All people counted,126135,1
+58,Middle School,126135,All people counted,126135,1
+58,Research,126135,All people counted,126135,1
+58,University,126135,All people counted,126135,1
+59,High School,119759,All people counted,119759,1
+59,Middle School,119759,All people counted,119759,1
+59,Research,119759,All people counted,119759,1
+59,University,119759,All people counted,119759,1
+60,High School,115037,All people counted,115037,1
+60,Middle School,115037,All people counted,115037,1
+60,Research,115037,All people counted,115037,1
+60,University,115037,All people counted,115037,1
+61,High School,113216,All people counted,113216,1
+61,Middle School,113216,All people counted,113216,1
+61,Research,113216,All people counted,113216,1
+61,University,113216,All people counted,113216,1
+62,High School,112808,All people counted,112808,1
+62,Middle School,112808,All people counted,112808,1
+62,Research,112808,All people counted,112808,1
+62,University,112808,All people counted,112808,1
+63,High School,111571,All people counted,111571,1
+63,Middle School,111571,All people counted,111571,1
+63,Research,111571,All people counted,111571,1
+63,University,111571,All people counted,111571,1
+64,High School,111850,All people counted,111850,1
+64,Middle School,111850,All people counted,111850,1
+64,Research,111850,All people counted,111850,1
+64,University,111850,All people counted,111850,1
+65,High School,111152,All people counted,111152,1
+65,Middle School,111152,All people counted,111152,1
+65,Research,111152,All people counted,111152,1
+65,University,111152,All people counted,111152,1
+66,High School,108126,All people counted,108126,1
+66,Middle School,108126,All people counted,108126,1
+66,Research,108126,All people counted,108126,1
+66,University,108126,All people counted,108126,1
+67,High School,105160,All people counted,105160,1
+67,Middle School,105160,All people counted,105160,1
+67,Research,105160,All people counted,105160,1
+67,University,105160,All people counted,105160,1
+68,High School,106416,All people counted,106416,1
+68,Middle School,106416,All people counted,106416,1
+68,Research,106416,All people counted,106416,1
+68,University,106416,All people counted,106416,1
+69,High School,104558,All people counted,104558,1
+69,Middle School,104558,All people counted,104558,1
+69,Research,104558,All people counted,104558,1
+69,University,104558,All people counted,104558,1
+70,High School,101915,All people counted,101915,1
+70,Middle School,101915,All people counted,101915,1
+70,Research,101915,All people counted,101915,1
+70,University,101915,All people counted,101915,1
+71,High School,104907,All people counted,104907,1
+71,Middle School,104907,All people counted,104907,1
+71,Research,104907,All people counted,104907,1
+71,University,104907,All people counted,104907,1
+72,High School,107073,All people counted,107073,1
+72,Middle School,107073,All people counted,107073,1
+72,Research,107073,All people counted,107073,1
+72,University,107073,All people counted,107073,1
+73,High School,109063,All people counted,109063,1
+73,Middle School,109063,All people counted,109063,1
+73,Research,109063,All people counted,109063,1
+73,University,109063,All people counted,109063,1
+74,High School,107829,All people counted,107829,1
+74,Middle School,107829,All people counted,107829,1
+74,Research,107829,All people counted,107829,1
+74,University,107829,All people counted,107829,1
